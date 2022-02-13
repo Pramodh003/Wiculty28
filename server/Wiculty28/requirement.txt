@@ -1,0 +1,8 @@
+python==3.6
+tensorflow==2.2.0
+torch==2.1.0
+flask=1.2.0
+numpy=2.3.0
+pandas=2.5.0
+matplotlib=2.4.0
+seaborn==2.3.0
